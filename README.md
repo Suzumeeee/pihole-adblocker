@@ -25,7 +25,7 @@ This projects converts the Raspberry Pi zero 2 W into a DNS sinkhole which block
 ## Results
 - 80.000+ domains on active blocklists
 - Real time query monitoring via Pi-hole dashboard
-- 14%+ of DNS queries blocked
+- 42%+ of DNS queries blocked
 
 ## Dashboard Screenshot
 
