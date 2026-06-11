@@ -29,7 +29,7 @@ This projects converts the Raspberry Pi zero 2 W into a DNS sinkhole which block
 
 ## Dashboard Screenshot
 
-![Dashboard]9dashboard.png)
+![Dashboard](dashboard.png)
 
 ## What I Learned
 - Linux networking fundamentals (DNS, static IP, DHCP)
