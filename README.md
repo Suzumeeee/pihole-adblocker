@@ -1,16 +1,15 @@
 # pihole-adblocker
-adblocker built on raspberry pi zero 2 W
 
 Built an ad and tracker blocker on a Raspberry Pi Zero 2 W. It runs Pi-hole to filter DNS request on the home network for every device.
 
-##Overview
+## Overview
 This projects converts the Raspberry Pi zero 2 W into a DNS sinkhole which blocks ads and trackers for all connected devices (laptops, phones) without requirinng to install adblocker perdevice.
 
-##Hardware
+## Hardware
 - Raspberry Pi Zero 2 W
 - MicroSD card (Raspberry Pi OS Lite (Legacy, 32-bit))
 
-##Tech Stack
+## Tech Stack
 - Raspberry Pi OS Lite (Legacy, 32-bit)
 - Pi-hole
 - SSH for remote administration
@@ -30,6 +29,7 @@ This projects converts the Raspberry Pi zero 2 W into a DNS sinkhole which block
 
 ## Dashboard Screenshot
 
+![Dashboard]9dashboard.png)
 
 ## What I Learned
 - Linux networking fundamentals (DNS, static IP, DHCP)
